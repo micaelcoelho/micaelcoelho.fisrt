@@ -1,5 +1,8 @@
 ## Sistema para reconfigurar a Geometria do Volume de Percepção de um LIDER 3D por Refleção Óptica
 
+Este site foi construido no ambito do desenvolvimento da minha dissertação no curso de Engenharia Mecânica com o propósito de aumentar a ornagização e promover um estudo mais eficiente.
+
+
 You can use the [editor on GitHub](https://github.com/micaelcoelho/micaelcoelho.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
