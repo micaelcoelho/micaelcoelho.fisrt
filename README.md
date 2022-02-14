@@ -1,6 +1,10 @@
 ## Sistema para reconfigurar a Geometria do Volume de Percepção de um LIDER 3D por Refleção Óptica
 
-Este site foi construido no ambito do desenvolvimento da minha dissertação no curso de Engenharia Mecânica com o propósito de aumentar a ornagização e promover um estudo mais eficiente.
+Este blog foi construido no âmbito do desenvolvimento da dissertação de Engenharia Mecânica com o propósito de aumentar a ornagização e promover um estudo mais eficiente.
+
+Numa primeira abordagem, por falta de material trabalhado e ideias começarei por descrever alguns dos assuntos que fui aprendendo com a leitura de artigos científicos relacionados com a dissertação.
+
+
 
 
 You can use the [editor on GitHub](https://github.com/micaelcoelho/micaelcoelho.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
