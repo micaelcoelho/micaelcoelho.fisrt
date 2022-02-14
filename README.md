@@ -5,7 +5,7 @@ Este blog foi construido no âmbito do desenvolvimento da dissertação de Engen
 Numa primeira abordagem, por falta de material trabalhado e ideias começarei por descrever alguns dos assuntos que fui aprendendo com a leitura de artigos científicos relacionados com a dissertação.
 
 
-micaelcoelho.github.io/resumos.md
+https://micaelcoelho.github.io/resumos.md
 
 
 
