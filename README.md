@@ -1,4 +1,4 @@
-## Sistema para reconfigurar a Geometria do Volume de Percepção de um LIDER 3D por Refleção Óptica
+## Sistema para reconfigurar a Geometria do Volume de Percepção de um LIDAR 3D por Refleção Óptica
 
 Este blog foi construido no âmbito do desenvolvimento da dissertação de Engenharia Mecânica com o propósito de aumentar a ornagização e promover um estudo mais eficiente.
 
